@@ -1,6 +1,6 @@
 # yutnori_bash
 
-##This program is a development of traditional Korean play yutnori using bash.
+## This program is a development of traditional Korean play yutnori using bash.
 
 - Two people are going on.(1p , 2p)
 - The effects are given when the "YUT" and "MO" are displayed.
